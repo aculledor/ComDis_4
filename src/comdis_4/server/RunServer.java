@@ -1,6 +1,5 @@
 package comdis_4.server;
 
-import comdis_4.ServerGUI_Ex;
 import java.rmi.RemoteException;
 import java.sql.SQLException;
 
